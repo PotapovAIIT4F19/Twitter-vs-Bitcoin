@@ -1,0 +1,147 @@
+,0
+0,SWN neg*SWN pos
+1,9 hashed*SWN neg
+2,SWN neg*4 hashed
+3,SWN neg*20 hashed
+4,11 count vector*SWN neg
+5,SWN neg*18 hashed
+6,6 hashed*SWN neg
+7,SWN neg*15 hashed
+8,SWN neg*13 hashed
+9,neg subjectivity bayes*SWN neg
+10,SWN neg*5 hashed
+11,score*SWN neg
+12,SWN neg*29 hashed
+13,11 hashed*SWN neg
+14,15 count vector*neg subjectivity bayes
+15,17 ngram vector*11 ngram vector
+16,14 hashed*SWN neg
+17,17 hashed*SWN neg
+18,SWN neg*27 hashed
+19,SWN neg*8 count vector
+20,22 count vector*5 hashed
+21,19 ngram vector*9 hashed
+22,15 count vector*9 ngram vector
+23,close*12 hashed
+24,13 hashed*29 hashed
+25,neg subjectivity bayes*17 ngram vector
+26,13 count vector*22 hashed
+27,21 ngram vector*20 ngram vector
+28,22 count vector*17 count vector
+29,29 ngram vector*23 hashed
+30,11 count vector*22 hashed
+31,subreddit subscribers*subreddit subscribers
+32,17 hashed*8 count vector
+33,23 ngram vector*26 hashed
+34,total comments score*SWN pos
+35,21 hashed*29 hashed
+36,13 ngram vector*17 hashed
+37,20 count vector*27 hashed
+38,1 count vector*Vader pos
+39,19 count vector
+40,SWN pos*9 hashed
+41,27 hashed*23 hashed
+42,29 count vector*5 hashed
+43,13 count vector*22 count vector
+44,11 hashed*neg subjectivity bayes
+45,neg subjectivity bayes*22 hashed
+46,29 count vector*22 ngram vector
+47,11 hashed*4 ngram vector
+48,11 hashed*6 hashed
+49,5 hashed*15 count vector
+50,16 hashed*15 count vector
+51,9 hashed*29 hashed
+52,SWN pos*13 hashed
+53,SWN pos*17 count vector
+54,2 hashed*3 hashed
+55,16 ngram vector*4 hashed
+56,close*13 count vector
+57,27 hashed*26 count vector
+58,27 hashed*SWN pos
+59,7 hashed*24 hashed
+60,SWN pos*Vader neg
+61,3 count vector*close
+62,8 hashed*8 ngram vector
+63,1 hashed*27 ngram vector
+64,14 count vector*20 hashed
+65,9 count vector*22 hashed
+66,SWN pos*14 hashed
+67,10 hashed*12 count vector
+68,30 hashed*15 ngram vector
+69,17 count vector*13 hashed
+70,24 hashed*SWN pos
+71,4 hashed*3 hashed
+72,20 count vector*14 hashed
+73,29 hashed*17 count vector
+74,total comments score*8 hashed
+75,5 hashed*24 hashed
+76,12 count vector*15 ngram vector
+77,SWN pos*25 hashed
+78,21 ngram vector*30 hashed
+79,3 count vector*16 hashed
+80,17 hashed*30 hashed
+81,11 hashed*SWN pos
+82,subreddit subscribers*10 hashed
+83,27 ngram vector*25 hashed
+84,5 ngram vector*24 hashed
+85,3 count vector*21 hashed
+86,1 count vector*14 hashed
+87,21 ngram vector*12 hashed
+88,Vader neg*neg subjectivity bayes
+89,26 hashed*19 hashed
+90,26 hashed*21 ngram vector
+91,13 hashed*4 hashed
+92,6 hashed*28 ngram vector
+93,25 hashed*25 hashed
+94,7 count vector*21 ngram vector
+95,4 hashed*4 hashed
+96,SWN pos*21 hashed
+97,12 hashed*16 count vector
+98,21 hashed*4 hashed
+99,22 hashed*11 hashed
+100,8 hashed*20 hashed
+101,23 hashed*3 hashed
+102,2 hashed*12 hashed
+103,27 hashed*27 hashed
+104,3 hashed*7 ngram vector
+105,10 hashed*22 hashed
+106,20 hashed*20 count vector
+107,14 count vector*27 hashed
+108,2 hashed*9 count vector
+109,13 hashed*23 hashed
+110,15 hashed*3 hashed
+111,27 hashed*24 hashed
+112,30 hashed*19 hashed
+113,6 hashed*14 hashed
+114,27 hashed*22 hashed
+115,1 hashed*10 count vector
+116,2 ngram vector*19 hashed
+117,16 hashed*6 hashed
+118,pos subjectivity bayes*7 hashed
+119,11 hashed*1 hashed
+120,22 ngram vector*18 hashed
+121,15 hashed*11 count vector
+122,18 hashed*neg subjectivity bayes
+123,7 hashed*11 hashed
+124,12 hashed*4 hashed
+125,6 hashed*4 hashed
+126,21 hashed*28 hashed
+127,30 hashed*18 hashed
+128,13 hashed*12 hashed
+129,27 hashed*6 hashed
+130,3 hashed*17 hashed
+131,13 hashed*19 hashed
+132,28 hashed*22 hashed
+133,30 hashed*14 hashed
+134,25 hashed*22 hashed
+135,3 hashed*8 hashed
+136,5 hashed*13 hashed
+137,16 hashed*28 hashed
+138,30 count vector*29 hashed
+139,5 hashed*4 hashed
+140,9 hashed*26 hashed
+141,17 hashed*12 hashed
+142,12 hashed*6 hashed
+143,26 hashed*21 hashed
+144,9 hashed*8 hashed
+145,12 hashed*3 hashed
