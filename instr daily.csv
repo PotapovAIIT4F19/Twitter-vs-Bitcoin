@@ -1,0 +1,77 @@
+,0
+0,22 hashed*29 count vector
+1,9 count vector*3 ngram vector
+2,5 count vector*8 ngram vector
+3,16 hashed*SWN neg
+4,SWN neg*23 ngram vector
+5,4 ngram vector*9 count vector
+6,9 count vector*7 ngram vector
+7,7 ngram vector*SWN neg
+8,26 count vector
+9,10 count vector*6 ngram vector
+10,25 count vector*17 hashed
+11,13 ngram vector*17 ngram vector
+12,12 ngram vector*12 count vector
+13,21 ngram vector*19 hashed
+14,22 hashed*6 count vector
+15,27 count vector*5 hashed
+16,11 hashed*16 hashed
+17,17 count vector*20 count vector
+18,total comments score*15 count vector
+19,neg subjectivity bayes*26 count vector
+20,9 hashed*SWN neg
+21,SWN neg*27 hashed
+22,30 ngram vector*14 count vector
+23,30 ngram vector*12 hashed
+24,15 ngram vector*num_comments
+25,pos subjectivity bayes*22 hashed
+26,14 ngram vector*score
+27,SWN pos*SWN neg
+28,14 count vector*28 ngram vector
+29,29 hashed*2 count vector
+30,26 hashed*Vader neg
+31,17 hashed*18 ngram vector
+32,pos subjectivity bayes
+33,30 hashed*30 hashed
+34,18 count vector*14 hashed
+35,10 hashed*30 hashed
+36,14 hashed*close
+37,10 ngram vector*17 hashed
+38,9 ngram vector*12 count vector
+39,15 hashed*14 hashed
+40,22 hashed*9 hashed
+41,SWN pos*3 hashed
+42,22 hashed*22 hashed
+43,Vader neg*28 count vector
+44,23 hashed*SWN pos
+45,17 hashed*13 hashed
+46,22 hashed*25 hashed
+47,17 hashed*15 hashed
+48,5 hashed*13 hashed
+49,3 hashed*13 hashed
+50,neg subjectivity bayes*27 hashed
+51,29 hashed*8 hashed
+52,22 hashed*21 hashed
+53,16 hashed*25 hashed
+54,10 ngram vector*12 hashed
+55,25 hashed*28 hashed
+56,SWN pos*7 ngram vector
+57,9 ngram vector*19 hashed
+58,4 hashed*20 hashed
+59,17 hashed*22 hashed
+60,20 hashed*7 hashed
+61,13 hashed*6 hashed
+62,11 ngram vector*6 hashed
+63,close*9 hashed
+64,neg subjectivity bayes*SWN pos
+65,11 hashed*5 hashed
+66,29 hashed*Vader pos
+67,21 hashed*12 hashed
+68,24 ngram vector*4 hashed
+69,Vader pos*16 hashed
+70,Vader pos*10 hashed
+71,2 hashed*Vader neu
+72,7 hashed*Vader pos
+73,10 hashed*17 hashed
+74,21 hashed*17 hashed
+75,20 hashed*24 hashed
